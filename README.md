@@ -1,2 +1,4 @@
 # Daily-Coding-Problem
-Exercises from the book
+By Alex Miller and Lawrence Wu
+
+Some exercises from the book
